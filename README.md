@@ -1,2 +1,2 @@
 # action-lab workflows
-test discord
+testa discord
